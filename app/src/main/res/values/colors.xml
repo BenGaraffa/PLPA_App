@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryDark">#A7300D</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="textBackground">#AD4F4D4D</color>
+    <color name="leafNodeBg">#33B80101</color>
+    <color name="branchNodeBg">#FFFFFF</color>
+    <color name="startNodeBg">#330CB300</color>
+</resources>
